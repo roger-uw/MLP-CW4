@@ -1,5 +1,5 @@
 ## G70 `S1742701` `S1744039` `S1737911`
-
+---
 Babycry (origin)
 ![babycry_origin]({{ "assets/spectrograms/babycry_origin.jpg" | absolute_url }})
 <audio src = "assets/sounds/babycry_origin.wav" controls preload></audio>
@@ -39,8 +39,7 @@ Babycry (2D_8filter)
 Babycry (2D_batched)
 ![babycry_2D_batched]({{ "assets/spectrograms/babycry_2D_batched.jpg" | absolute_url }})
 <audio src = "assets/sounds/babycry_2D_batched.wav" controls preload></audio>
-
-
+---
 Fire (origin)
 ![fire_origin]({{ "assets/spectrograms/fire_origin.jpg" | absolute_url }})
 <audio src = "assets/sounds/fire_origin.wav" controls preload></audio>
@@ -68,8 +67,7 @@ Fire (wpd)
 Fire (wpd_denoised)
 ![fire_wpd_denoised]({{ "assets/spectrograms/fire_wpd_denoised.jpg" | absolute_url }})
 <audio src = "assets/sounds/fire_wpd_denoised.wav" controls preload></audio>
-
-
+---
 Handsaw (origin)
 ![handsaw_origin]({{ "assets/spectrograms/handsaw_origin.jpg" | absolute_url }})
 <audio src = "assets/sounds/handsaw_origin.wav" controls preload></audio>
@@ -97,8 +95,7 @@ Handsaw (wpd)
 Handsaw (wpd_denoised)
 ![handsaw_wpd_denoised]({{ "assets/spectrograms/handsaw_wpd_denoised.jpg" | absolute_url }})
 <audio src = "assets/sounds/handsaw_wpd_denoised.wav" controls preload></audio>
-
-
+---
 Keyboard (origin)
 ![keyboard_origin]({{ "assets/spectrograms/keyboard_origin.jpg" | absolute_url }})
 <audio src = "assets/sounds/keyboard_origin.wav" controls preload></audio>
@@ -126,8 +123,7 @@ Keyboard (wpd)
 Keyboard (wpd_denoised)
 ![keyboard_wpd_denoised]({{ "assets/spectrograms/keyboard_wpd_denoised.jpg" | absolute_url }})
 <audio src = "assets/sounds/keyboard_wpd_denoised.wav" controls preload></audio>
-
-
+---
 Train (origin)
 ![train_origin]({{ "assets/spectrograms/train_origin.jpg" | absolute_url }})
 <audio src = "assets/sounds/train_origin.wav" controls preload></audio>
