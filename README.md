@@ -2,7 +2,7 @@
 
 ## Babycry
 ---
-Babycry (origin)
+Babycry (original)
 ![babycry_origin]({{ "assets/spectrograms/babycry_origin.jpg" | absolute_url }})
 <audio src = "assets/sounds/babycry_origin.wav" controls preload></audio>
 Babycry (crelu)
@@ -44,7 +44,7 @@ Babycry (2D_batched)
 
 ## Fire
 ---
-Fire (origin)
+Fire (original)
 ![fire_origin]({{ "assets/spectrograms/fire_origin.jpg" | absolute_url }})
 <audio src = "assets/sounds/fire_origin.wav" controls preload></audio>
 Fire (crelu)
@@ -74,7 +74,7 @@ Fire (wpd_denoised)
 
 ## Handsaw
 ---
-Handsaw (origin)
+Handsaw (original)
 ![handsaw_origin]({{ "assets/spectrograms/handsaw_origin.jpg" | absolute_url }})
 <audio src = "assets/sounds/handsaw_origin.wav" controls preload></audio>
 Handsaw (crelu)
@@ -104,7 +104,7 @@ Handsaw (wpd_denoised)
 
 ## Keyboard
 ---
-Keyboard (origin)
+Keyboard (original)
 ![keyboard_origin]({{ "assets/spectrograms/keyboard_origin.jpg" | absolute_url }})
 <audio src = "assets/sounds/keyboard_origin.wav" controls preload></audio>
 Keyboard (crelu)
@@ -134,7 +134,7 @@ Keyboard (wpd_denoised)
 
 ## Train
 ---
-Train (origin)
+Train (original)
 ![train_origin]({{ "assets/spectrograms/train_origin.jpg" | absolute_url }})
 <audio src = "assets/sounds/train_origin.wav" controls preload></audio>
 Train (crelu)
